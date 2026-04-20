@@ -15,7 +15,7 @@ console = Console()
 URL_RX = re.compile(r'https?://[^\s<>"{}|\\^`\[\]]+')
 
 def show_banner():
-    # شعار جديد باسم mshield (صغير ومختصر)
+    
     banner = """
     [bold cyan]
     ███╗   ███╗███████╗██╗  ██╗██╗███████╗██╗     ██████╗ 
