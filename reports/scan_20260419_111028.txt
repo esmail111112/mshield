@@ -1,0 +1,10 @@
+MailShield Scan Report - 2026-04-19 11:10:28
+File: raw_text
+Risk Score: 90/100 (High Risk)
+
+RED FLAGS:
+
+Authentication Issues:
+  - SPF check failed/missing
+  - DKIM check failed/missing
+  - DMARC check failed/missing
